@@ -1,6 +1,5 @@
 Hi ....
 My name is joseph juma Odhiambo 
-Iam 19 years old
 Iam currently learning Laptop opperation in Modern skills college
 Iam interested to AI development
 Iam looking to collaborate on friendly open source projects
