@@ -11,7 +11,7 @@ In this **semester** i want to `achieve` my *goals* in learnig AI and improve my
 | TOOL    | PURPOSE   | LINK     |
 |---------|-----------|----------|
 |         |           |               
-- [x] Created a giyhub account
+- [x] Created a github account
 - [ ] how to inteprate computer language
 - [ ] learn computer languages
   ```python
