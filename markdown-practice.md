@@ -15,12 +15,5 @@ In this **semester** i want to `achieve` my *goals* in learnig AI and improve my
 - [ ] how to inteprate computer language
 - [ ] learn computer languages
   ```python
-print("Hello, world!")
-```   
-> Study hard so that in future you never fail to do what you like.
-About me check out my GitHub Profil
-
-
-
-check out My GitHub profile
+print("Hello, world
 
