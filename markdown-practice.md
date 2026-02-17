@@ -18,8 +18,6 @@ In this **semester** i want to `achieve` my *goals* in learnig AI and improve my
 print("Hello, world!")
 ```   
 > Study hard so that in future you never fail to do what you like.
-About me
-##joseph
-*boosss*
-**focus**
-~~manmade~~
+About me check out my GitHub Profil
+
+
