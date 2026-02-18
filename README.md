@@ -14,5 +14,5 @@
 
 ## How to Reach Me
 - Email: [jj4443193@gmail.com]
-- LinkedIn: [123409 dotcom]Hi ....
+- LinkedIn: [123409-dotcom/Joseph juma]Hi ....
 Add my profile README  
