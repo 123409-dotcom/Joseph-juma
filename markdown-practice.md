@@ -1,7 +1,7 @@
 ## My learning goals 
 ### This semester
 In this **semester** i want to `achieve` my *goals* in learnig AI and improve my AI ~~skills~~
-[https://www.w3schools.com/spaces/index.php](https://123409.c0m)
+[https://www.w3schools.com/spaces/index.php](https://123409-dotcom)
 - python
 - collaboration on the github accoount
 - to inteprate computer language
@@ -11,10 +11,12 @@ In this **semester** i want to `achieve` my *goals* in learnig AI and improve my
 | TOOL    | PURPOSE   | LINK     |
 |---------|-----------|----------|
 |         |           |               
+
+
 - [x] Created a github account
 - [ ] how to inteprate computer language
 - [ ] learn computer languages
-  ```python
+  python
 print("Hello, world")
 
 
