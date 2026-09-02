@@ -8,14 +8,14 @@ In this **semester** i want to `achieve` my *goals* in learnig AI and improve my
 1. create a github account
 2. add profile
 3. learn to collaborate on the github 
+
 | TOOL    | PURPOSE   | LINK     |
-|---------|-----------|----------|
-|         |           |               
+        
 
 
 - [x] Created a github account
-- [ ] how to inteprate computer language
-- [ ] learn computer languages
+- [x] How to inteprate computer language
+- [x] Learn computer languages
   python
 print("Hello, world")
 
