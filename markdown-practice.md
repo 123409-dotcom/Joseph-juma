@@ -5,9 +5,9 @@ In this **semester** i want to `achieve` my *goals* in learnig AI and improve my
 - python
 - collaboration on the github accoount
 - to inteprate computer language
-1. create a github account
-2. add profile
-3. learn to collaborate on the github 
+1. Create a github account
+2. Add profile
+3. Learn to collaborate on the github 
 
 | TOOL    | PURPOSE   | LINK     |
         
